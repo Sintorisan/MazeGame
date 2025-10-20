@@ -1,0 +1,192 @@
+[
+    {
+        "Message": "You wake up in a dark stone chamber. The air is cold and damp.",
+        "ContainsDiamond": false,
+        "ContainsMonster": false,
+        "Monster": null
+    },
+    {
+        "Message": "A cracked torch flickers weakly on the wall.",
+        "ContainsDiamond": false,
+        "ContainsMonster": false,
+        "Monster": null
+    },
+    {
+        "Message": "You hear faint dripping water echoing through the hall.",
+        "ContainsDiamond": false,
+        "ContainsMonster": true,
+        "Monster": {
+            "Name": "Cave Bat",
+            "Level": 1,
+            "Health": 30
+        }
+    },
+    {
+        "Message": "A small gem sparkles in a pile of dust.",
+        "ContainsDiamond": true,
+        "ContainsMonster": false,
+        "Monster": null
+    },
+    {
+        "Message": "You find an old skeleton clutching a rusty sword.",
+        "ContainsDiamond": false,
+        "ContainsMonster": true,
+        "Monster": {
+            "Name": "Skeleton Soldier",
+            "Level": 2,
+            "Health": 60
+        }
+    },
+    {
+        "Message": "Moss covers the walls, and you smell earth and decay.",
+        "ContainsDiamond": false,
+        "ContainsMonster": false,
+        "Monster": null
+    },
+    {
+        "Message": "You stumble upon a shallow underground pond.",
+        "ContainsDiamond": false,
+        "ContainsMonster": true,
+        "Monster": {
+            "Name": "Slime",
+            "Level": 1,
+            "Health": 40
+        }
+    },
+    {
+        "Message": "A glimmer catches your eye — another diamond!",
+        "ContainsDiamond": true,
+        "ContainsMonster": false,
+        "Monster": null
+    },
+    {
+        "Message": "You hear soft breathing — something is nearby.",
+        "ContainsDiamond": false,
+        "ContainsMonster": true,
+        "Monster": {
+            "Name": "Goblin Scout",
+            "Level": 2,
+            "Health": 70
+        }
+    },
+    {
+        "Message": "Broken pottery and bones cover the floor.",
+        "ContainsDiamond": false,
+        "ContainsMonster": false,
+        "Monster": null
+    },
+    {
+        "Message": "A dusty corridor stretches into darkness.",
+        "ContainsDiamond": false,
+        "ContainsMonster": false,
+        "Monster": null
+    },
+    {
+        "Message": "You step on a loose stone and hear a rumble above.",
+        "ContainsDiamond": false,
+        "ContainsMonster": true,
+        "Monster": {
+            "Name": "Cave Spider",
+            "Level": 3,
+            "Health": 80
+        }
+    },
+    {
+        "Message": "A soft light reveals a diamond resting on a pedestal.",
+        "ContainsDiamond": true,
+        "ContainsMonster": false,
+        "Monster": null
+    },
+    {
+        "Message": "A strange whisper fills the air, though no one is here.",
+        "ContainsDiamond": false,
+        "ContainsMonster": false,
+        "Monster": null
+    },
+    {
+        "Message": "An armored knight blocks your way!",
+        "ContainsDiamond": false,
+        "ContainsMonster": true,
+        "Monster": {
+            "Name": "Dark Knight",
+            "Level": 4,
+            "Health": 120
+        }
+    },
+    {
+        "Message": "You find a tranquil underground lake reflecting faint light.",
+        "ContainsDiamond": false,
+        "ContainsMonster": false,
+        "Monster": null
+    },
+    {
+        "Message": "The walls glisten with minerals — and one diamond shines brighter.",
+        "ContainsDiamond": true,
+        "ContainsMonster": false,
+        "Monster": null
+    },
+    {
+        "Message": "Something slithers along the floor…",
+        "ContainsDiamond": false,
+        "ContainsMonster": true,
+        "Monster": {
+            "Name": "Cave Serpent",
+            "Level": 3,
+            "Health": 100
+        }
+    },
+    {
+        "Message": "A ruined altar stands here, carved with unknown symbols.",
+        "ContainsDiamond": false,
+        "ContainsMonster": false,
+        "Monster": null
+    },
+    {
+        "Message": "You spot a small pouch with a diamond peeking out.",
+        "ContainsDiamond": true,
+        "ContainsMonster": false,
+        "Monster": null
+    },
+    {
+        "Message": "The ground trembles slightly beneath your feet.",
+        "ContainsDiamond": false,
+        "ContainsMonster": true,
+        "Monster": {
+            "Name": "Earth Golem",
+            "Level": 5,
+            "Health": 150
+        }
+    },
+    {
+        "Message": "A tunnel ahead glows red with heat.",
+        "ContainsDiamond": false,
+        "ContainsMonster": true,
+        "Monster": {
+            "Name": "Fire Imp",
+            "Level": 4,
+            "Health": 90
+        }
+    },
+    {
+        "Message": "You find an abandoned miner’s camp — tools and broken lanterns.",
+        "ContainsDiamond": false,
+        "ContainsMonster": false,
+        "Monster": null
+    },
+    {
+        "Message": "You enter a grand cavern with diamond veins in the walls!",
+        "ContainsDiamond": true,
+        "ContainsMonster": false,
+        "Monster": null
+    },
+    {
+        "Message": "A dragon sleeps atop a mountain of diamonds. The final challenge awaits.",
+        "ContainsDiamond": true,
+        "ContainsMonster": true,
+        "Monster": {
+            "Name": "Ancient Dragon",
+            "Level": 8,
+            "Health": 300
+        }
+    }
+]
