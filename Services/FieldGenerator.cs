@@ -29,24 +29,13 @@ public class FieldGenerator
 			}
 		}
 
-		playingField[4, 2] = SetStaringRoom();
-
 		return playingField;
-	}
-
-	private Room SetStaringRoom()
-	{
-		return new Room
-		{
-			IsDone = true,
-			Message = "Welcome, adventurer! \n\nYou awaken in a dimly lit stone chamber deep underground. The air is cold and echoes with distant growls.\n\nYour goal is simple:\n- Use the arrow keys to move through the maze.\n- Collect all the hidden diamonds.\n- Beware of monsters lurking in the dark — some rooms are not safe.\n\nGood luck, brave explorer!"
-		};
 	}
 
 	private Room AddRandomRoom()
 	{
 		var rnd = new Random();
-		int rndRoomIndex = rnd.Next(0, Rooms.Count - 1);
+		int rndRoomIndex = rnd.Next(0, Rooms.Count);
 		var roomToAdd = Rooms[rndRoomIndex];
 		Rooms.RemoveAt(rndRoomIndex);
 		return roomToAdd;

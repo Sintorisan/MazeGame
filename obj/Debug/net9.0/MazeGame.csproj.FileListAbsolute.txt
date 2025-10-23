@@ -13,3 +13,4 @@ C:\Users\sindr\ws\salt\assignments\MazeGame\obj\Debug\net9.0\MazeGame.pdb
 C:\Users\sindr\ws\salt\assignments\MazeGame\obj\Debug\net9.0\MazeGame.genruntimeconfig.cache
 C:\Users\sindr\ws\salt\assignments\MazeGame\obj\Debug\net9.0\ref\MazeGame.dll
 C:\Users\sindr\ws\salt\assignments\MazeGame\bin\Debug\net9.0\Data\rooms.json
+C:\Users\sindr\ws\salt\assignments\MazeGame\obj\Debug\net9.0\MazeGame.sourcelink.json

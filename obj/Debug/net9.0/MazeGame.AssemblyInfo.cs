@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MazeGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6674de1b6cc3526b1fc83670bd2dd54d355a058f")]
 [assembly: System.Reflection.AssemblyProductAttribute("MazeGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MazeGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
