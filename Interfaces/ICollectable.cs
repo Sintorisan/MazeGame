@@ -1,6 +1,5 @@
-﻿namespace MazeGame;
+﻿namespace MazeGame.Interfaces;
 
 public interface ICollectable
 {
-    List<Item> CollectItems();
 }

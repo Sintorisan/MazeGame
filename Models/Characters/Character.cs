@@ -1,4 +1,4 @@
-﻿namespace MazeGame;
+﻿namespace MazeGame.Models.Characters;
 
 public class Character
 {

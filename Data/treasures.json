@@ -1,0 +1,218 @@
+[
+    {
+        "LevelToOpen": 1,
+        "Content": [
+            { "Type": "GoldCoin", "Name": "Loose Change", "Amount": 10, "Size": 1 },
+            {
+                "Type": "HealthItem",
+                "Name": "Stale Bread",
+                "HealthType": "Food",
+                "HealPower": 10,
+                "Size": 1
+            }
+        ]
+    },
+    {
+        "LevelToOpen": 1,
+        "Content": [
+            { "Type": "GoldCoin", "Name": "Copper Coins", "Amount": 15, "Size": 1 },
+            {
+                "Type": "HealthItem",
+                "Name": "Healing Herb",
+                "HealthType": "Herb",
+                "HealPower": 12,
+                "Size": 1
+            }
+        ]
+    },
+    {
+        "LevelToOpen": 2,
+        "Content": [
+            { "Type": "GoldCoin", "Name": "Small Purse", "Amount": 20, "Size": 1 },
+            {
+                "Type": "HealthItem",
+                "Name": "Minor Health Potion",
+                "HealthType": "Potion",
+                "HealPower": 15,
+                "Size": 1
+            }
+        ]
+    },
+    {
+        "LevelToOpen": 2,
+        "Content": [
+            { "Type": "GoldCoin", "Name": "Old Coin Pouch", "Amount": 25, "Size": 1 },
+            {
+                "Type": "HealthItem",
+                "Name": "Herbal Tea",
+                "HealthType": "Brew",
+                "HealPower": 18,
+                "Size": 1
+            }
+        ]
+    },
+    {
+        "LevelToOpen": 3,
+        "Content": [
+            { "Type": "GoldCoin", "Name": "Traveler’s Purse", "Amount": 35, "Size": 1 },
+            {
+                "Type": "HealthItem",
+                "Name": "Hearty Bread Loaf",
+                "HealthType": "Food",
+                "HealPower": 20,
+                "Size": 1
+            }
+        ]
+    },
+    {
+        "LevelToOpen": 3,
+        "Content": [
+            { "Type": "GoldCoin", "Name": "Merchant’s Coins", "Amount": 45, "Size": 1 },
+            { "Type": "Diamond", "Name": "Dull Gem", "Value": 50, "Size": 1 }
+        ]
+    },
+    {
+        "LevelToOpen": 4,
+        "Content": [
+            { "Type": "GoldCoin", "Name": "Silver Pouch", "Amount": 60, "Size": 1 },
+            {
+                "Type": "HealthItem",
+                "Name": "Strong Healing Brew",
+                "HealthType": "Brew",
+                "HealPower": 25,
+                "Size": 1
+            },
+            { "Type": "Armor", "Name": "Worn Leather Armor", "Defense": 4, "Size": 2 }
+        ]
+    },
+    {
+        "LevelToOpen": 4,
+        "Content": [
+            { "Type": "GoldCoin", "Name": "Hidden Cache", "Amount": 70, "Size": 1 },
+            { "Type": "Weapon", "Name": "Short Sword", "Damage": 10, "Size": 2 }
+        ]
+    },
+    {
+        "LevelToOpen": 5,
+        "Content": [
+            { "Type": "GoldCoin", "Name": "Heavy Pouch", "Amount": 90, "Size": 1 },
+            { "Type": "Weapon", "Name": "Iron Mace", "Damage": 14, "Size": 2 },
+            {
+                "Type": "HealthItem",
+                "Name": "Herbal Infusion",
+                "HealthType": "Brew",
+                "HealPower": 30,
+                "Size": 1
+            }
+        ]
+    },
+    {
+        "LevelToOpen": 5,
+        "Content": [
+            { "Type": "GoldCoin", "Name": "Traveler’s Hoard", "Amount": 100, "Size": 1 },
+            { "Type": "Diamond", "Name": "Clear Gemstone", "Value": 120, "Size": 1 }
+        ]
+    },
+    {
+        "LevelToOpen": 6,
+        "Content": [
+            { "Type": "GoldCoin", "Name": "Noble’s Purse", "Amount": 130, "Size": 1 },
+            { "Type": "Weapon", "Name": "Steel Longsword", "Damage": 18, "Size": 2 },
+            { "Type": "Armor", "Name": "Reinforced Mail", "Defense": 6, "Size": 2 }
+        ]
+    },
+    {
+        "LevelToOpen": 6,
+        "Content": [
+            { "Type": "GoldCoin", "Name": "Secret Cache", "Amount": 140, "Size": 1 },
+            {
+                "Type": "HealthItem",
+                "Name": "Elixir of Recovery",
+                "HealthType": "Elixir",
+                "HealPower": 35,
+                "Size": 1
+            }
+        ]
+    },
+    {
+        "LevelToOpen": 7,
+        "Content": [
+            { "Type": "GoldCoin", "Name": "Ancient Chest", "Amount": 160, "Size": 1 },
+            { "Type": "Weapon", "Name": "War Axe", "Damage": 24, "Size": 3 },
+            { "Type": "Armor", "Name": "Ornate Plate", "Defense": 8, "Size": 3 }
+        ]
+    },
+    {
+        "LevelToOpen": 7,
+        "Content": [
+            { "Type": "GoldCoin", "Name": "Gilded Hoard", "Amount": 150, "Size": 1 },
+            {
+                "Type": "HealthItem",
+                "Name": "Hearty Stew",
+                "HealthType": "Food",
+                "HealPower": 30,
+                "Size": 2
+            },
+            { "Type": "Diamond", "Name": "Bright Gem", "Value": 250, "Size": 1 }
+        ]
+    },
+    {
+        "LevelToOpen": 8,
+        "Content": [
+            { "Type": "GoldCoin", "Name": "Royal Treasure", "Amount": 200, "Size": 1 },
+            { "Type": "Weapon", "Name": "Flame Blade", "Damage": 28, "Size": 3 },
+            { "Type": "Armor", "Name": "Fireguard Plate", "Defense": 10, "Size": 3 }
+        ]
+    },
+    {
+        "LevelToOpen": 8,
+        "Content": [
+            {
+                "Type": "HealthItem",
+                "Name": "Elixir of Vitality",
+                "HealthType": "Elixir",
+                "HealPower": 50,
+                "Size": 1
+            },
+            { "Type": "Diamond", "Name": "Radiant Gem", "Value": 500, "Size": 1 }
+        ]
+    },
+    {
+        "LevelToOpen": 9,
+        "Content": [
+            { "Type": "GoldCoin", "Name": "Ancient Vault", "Amount": 250, "Size": 1 },
+            { "Type": "Weapon", "Name": "Obsidian Greatsword", "Damage": 34, "Size": 3 },
+            { "Type": "Armor", "Name": "Obsidian Armor", "Defense": 12, "Size": 3 },
+            { "Type": "Diamond", "Name": "Shadow Crystal", "Value": 750, "Size": 1 }
+        ]
+    },
+    {
+        "LevelToOpen": 9,
+        "Content": [
+            { "Type": "GoldCoin", "Name": "Hidden Royal Cache", "Amount": 230, "Size": 1 },
+            {
+                "Type": "HealthItem",
+                "Name": "Dragon Brew",
+                "HealthType": "Brew",
+                "HealPower": 45,
+                "Size": 1
+            }
+        ]
+    },
+    {
+        "LevelToOpen": 10,
+        "Content": [
+            { "Type": "GoldCoin", "Name": "Dragon Hoard", "Amount": 500, "Size": 2 },
+            { "Type": "Weapon", "Name": "Blade of Kings", "Damage": 50, "Size": 3 },
+            { "Type": "Armor", "Name": "Crownguard Armor", "Defense": 15, "Size": 3 },
+            { "Type": "Diamond", "Name": "Heart of Fire", "Value": 1000, "Size": 2 },
+            {
+                "Type": "HealthItem",
+                "Name": "Elixir of Immortality",
+                "HealthType": "Elixir",
+                "HealPower": 75,
+                "Size": 1
+            }
+        ]
+    }
+]

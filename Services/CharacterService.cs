@@ -1,5 +1,7 @@
 ﻿
-namespace MazeGame;
+using MazeGame.Models.Characters;
+
+namespace MazeGame.Services;
 
 public class CharacterService
 {

@@ -1,0 +1,62 @@
+[
+    {
+        "RoomScenery": "You step into a narrow stone chamber where the air feels thick and still. Flickering torchlight dances on walls coated in green moss, and faint claw marks score the floor as if something restless once paced here.",
+        "RoomType": "MonsterRoom"
+    },
+    {
+        "RoomScenery": "Bones litter the ground beside broken weapons, relics of forgotten battles. The silence is heavy, interrupted only by the slow drip of water echoing from somewhere unseen.",
+        "RoomType": "MonsterRoom"
+    },
+    {
+        "RoomScenery": "The smell of decay hangs in the air. Scratched symbols glow faintly on the walls, pulsing like a heartbeat. Something nearby is breathing — slow, deep, and aware of you.",
+        "RoomType": "MonsterRoom"
+    },
+    {
+        "RoomScenery": "Tattered banners hang from cracked pillars, each marked with claw slashes and dried stains of something dark. A growl trembles through the air, low and close.",
+        "RoomType": "MonsterRoom"
+    },
+    {
+        "RoomScenery": "A chilling breeze seeps through the cracks of the walls. In the center of the room lies a half-devoured carcass, still steaming. You hear scratching from the shadows — it hasn’t finished its meal.",
+        "RoomType": "MonsterRoom"
+    },
+    {
+        "RoomScenery": "You enter a grand stone hall glittering with gold and dust. Dozens of chests line the walls, some broken open, others still sealed with strange runes humming softly.",
+        "RoomType": "TreasureRoom"
+    },
+    {
+        "RoomScenery": "An amber glow fills the chamber as rays of light pierce through a cracked ceiling. Piles of gold coins shimmer beneath the dust, and a jeweled chalice rests proudly atop a marble pedestal.",
+        "RoomType": "TreasureRoom"
+    },
+    {
+        "RoomScenery": "You find a treasure chamber overtaken by nature — vines coil around ancient chests and golden goblets lie buried in roots. The air smells of old wood and forgotten wealth.",
+        "RoomType": "TreasureRoom"
+    },
+    {
+        "RoomScenery": "The faint scent of incense lingers here. Shelves filled with relics and artifacts stretch along the walls, each radiating a faint magical hum — or perhaps just your imagination.",
+        "RoomType": "TreasureRoom"
+    },
+    {
+        "RoomScenery": "A single torch flickers in the corner, revealing a chest adorned with ornate carvings. A sign above it reads, ‘Totally not a trap.’",
+        "RoomType": "TreasureRoom"
+    },
+    {
+        "RoomScenery": "You enter a small, quiet chamber. Dust motes drift lazily through a shaft of light. Empty crates and an old barrel rest against the wall — nothing remarkable, but strangely peaceful.",
+        "RoomType": "RegularRoom"
+    },
+    {
+        "RoomScenery": "The room smells faintly of burnt oil. A half-melted candle rests on a wooden table beside a book of unreadable symbols. Someone was here — not long ago.",
+        "RoomType": "RegularRoom"
+    },
+    {
+        "RoomScenery": "You find a room that feels more like a passageway. The walls are lined with cobwebs, and every step stirs up a whisper of dust that dances in your torchlight.",
+        "RoomType": "RegularRoom"
+    },
+    {
+        "RoomScenery": "A pile of discarded tools lies in the corner. There’s a stool, a cracked mirror, and something that looks suspiciously like a teacup. Whoever lived here tried to make it home.",
+        "RoomType": "RegularRoom"
+    },
+    {
+        "RoomScenery": "This chamber seems ordinary — perhaps too ordinary. A single stool sits in the middle of the floor under a small spotlight of light, like it’s waiting for someone to perform.",
+        "RoomType": "RegularRoom"
+    }
+]

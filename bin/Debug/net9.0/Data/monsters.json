@@ -1,0 +1,294 @@
+[
+    {
+        "Name": "Cave Rat",
+        "Level": 1,
+        "Health": 30,
+        "Loot": [
+            {
+                "Type": "HealthItem",
+                "Name": "Crumb of Bread",
+                "HealthType": "Food",
+                "HealPower": 10,
+                "Size": 1
+            },
+            {
+                "Type": "GoldCoin",
+                "Name": "Loose Coin",
+                "Amount": 5,
+                "Size": 1
+            }
+        ]
+    },
+    {
+        "Name": "Cave Bat",
+        "Level": 1,
+        "Health": 40,
+        "Loot": [
+            {
+                "Type": "HealthItem",
+                "Name": "Healing Flower",
+                "HealthType": "Herb",
+                "HealPower": 12,
+                "Size": 1
+            }
+        ]
+    },
+    {
+        "Name": "Goblin Scout",
+        "Level": 2,
+        "Health": 50,
+        "Loot": [
+            {
+                "Type": "GoldCoin",
+                "Name": "Small Pouch of Gold",
+                "Amount": 15,
+                "Size": 1
+            },
+            {
+                "Type": "Weapon",
+                "Name": "Crude Dagger",
+                "Damage": 6,
+                "Size": 1
+            }
+        ]
+    },
+    {
+        "Name": "Forest Slime",
+        "Level": 2,
+        "Health": 60,
+        "Loot": [
+            {
+                "Type": "Diamond",
+                "Name": "Dull Gemstone",
+                "Value": 40,
+                "Size": 1
+            }
+        ]
+    },
+    {
+        "Name": "Skeleton",
+        "Level": 3,
+        "Health": 70,
+        "Loot": [
+            {
+                "Type": "Armor",
+                "Name": "Cracked Bone Chestplate",
+                "Defense": 3,
+                "Size": 2
+            },
+            {
+                "Type": "GoldCoin",
+                "Name": "Ancient Coin",
+                "Amount": 10,
+                "Size": 1
+            }
+        ]
+    },
+    {
+        "Name": "Swamp Leech",
+        "Level": 3,
+        "Health": 80,
+        "Loot": [
+            {
+                "Type": "HealthItem",
+                "Name": "Swamp Herb Brew",
+                "HealthType": "Brew",
+                "HealPower": 18,
+                "Size": 1
+            }
+        ]
+    },
+    {
+        "Name": "Zombie Peasant",
+        "Level": 4,
+        "Health": 90,
+        "Loot": [
+            {
+                "Type": "HealthItem",
+                "Name": "Rotten Stew",
+                "HealthType": "Food",
+                "HealPower": 8,
+                "Size": 1
+            },
+            {
+                "Type": "GoldCoin",
+                "Name": "Dirty Coins",
+                "Amount": 25,
+                "Size": 1
+            }
+        ]
+    },
+    {
+        "Name": "Orc Warrior",
+        "Level": 4,
+        "Health": 100,
+        "Loot": [
+            {
+                "Type": "Weapon",
+                "Name": "Iron Axe",
+                "Damage": 12,
+                "Size": 2
+            },
+            {
+                "Type": "GoldCoin",
+                "Name": "Orcish Hoard",
+                "Amount": 40,
+                "Size": 1
+            }
+        ]
+    },
+    {
+        "Name": "Bandit Thief",
+        "Level": 5,
+        "Health": 110,
+        "Loot": [
+            {
+                "Type": "Weapon",
+                "Name": "Steel Cutlass",
+                "Damage": 15,
+                "Size": 2
+            },
+            {
+                "Type": "HealthItem",
+                "Name": "Herbal Tea",
+                "HealthType": "Brew",
+                "HealPower": 25,
+                "Size": 1
+            },
+            {
+                "Type": "GoldCoin",
+                "Name": "Stolen Purse",
+                "Amount": 60,
+                "Size": 1
+            }
+        ]
+    },
+    {
+        "Name": "Shadow Wolf",
+        "Level": 5,
+        "Health": 95,
+        "Loot": [
+            {
+                "Type": "Armor",
+                "Name": "Wolf Hide Armor",
+                "Defense": 5,
+                "Size": 2
+            },
+            {
+                "Type": "Diamond",
+                "Name": "Black Gem",
+                "Value": 120,
+                "Size": 1
+            }
+        ]
+    },
+    {
+        "Name": "Orc Captain",
+        "Level": 6,
+        "Health": 130,
+        "Loot": [
+            {
+                "Type": "Weapon",
+                "Name": "Orcish Great Axe",
+                "Damage": 18,
+                "Size": 3
+            },
+            {
+                "Type": "HealthItem",
+                "Name": "Meat Stew",
+                "HealthType": "Food",
+                "HealPower": 30,
+                "Size": 2
+            },
+            {
+                "Type": "GoldCoin",
+                "Name": "Heavy Coin Sack",
+                "Amount": 80,
+                "Size": 1
+            }
+        ]
+    },
+    {
+        "Name": "Wraith",
+        "Level": 6,
+        "Health": 120,
+        "Loot": [
+            {
+                "Type": "Diamond",
+                "Name": "Soul Gem",
+                "Value": 250,
+                "Size": 1
+            }
+        ]
+    },
+    {
+        "Name": "Minotaur",
+        "Level": 7,
+        "Health": 200,
+        "Loot": [
+            {
+                "Type": "Weapon",
+                "Name": "War Hammer",
+                "Damage": 26,
+                "Size": 3
+            },
+            {
+                "Type": "Armor",
+                "Name": "Horned Chestplate",
+                "Defense": 8,
+                "Size": 3
+            },
+            {
+                "Type": "GoldCoin",
+                "Name": "Bull’s Tribute",
+                "Amount": 100,
+                "Size": 1
+            }
+        ]
+    },
+    {
+        "Name": "Vampire",
+        "Level": 8,
+        "Health": 180,
+        "Loot": [
+            {
+                "Type": "HealthItem",
+                "Name": "Elixir of Blood",
+                "HealthType": "Elixir",
+                "HealPower": 45,
+                "Size": 1
+            },
+            {
+                "Type": "Diamond",
+                "Name": "Crimson Jewel",
+                "Value": 400,
+                "Size": 1
+            }
+        ]
+    },
+    {
+        "Name": "Ancient Dragon",
+        "Level": 10,
+        "Health": 500,
+        "Loot": [
+            {
+                "Type": "Weapon",
+                "Name": "Dragontooth Blade",
+                "Damage": 50,
+                "Size": 3
+            },
+            {
+                "Type": "Armor",
+                "Name": "Scaled Dragon Armor",
+                "Defense": 15,
+                "Size": 3
+            },
+            {
+                "Type": "Diamond",
+                "Name": "Dragon’s Heart Gem",
+                "Value": 1000,
+                "Size": 2
+            }
+        ]
+    }
+]
